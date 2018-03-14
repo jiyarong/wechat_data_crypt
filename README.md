@@ -1,6 +1,12 @@
 # wechat_data_crypt
 微信小程序对称解密的Ruby实现
 
+安装
+```
+$ gem install 'wechat_data_crypt'
+```
+或者加入你的Gemfile，然后bundle install
+
 用法
 
 ```ruby
